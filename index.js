@@ -1,6 +1,4 @@
-
-var a=200;
-var b=2;
-var c=2
+var a=20;
+var a=22;
 
 console.log(a*b*c);
